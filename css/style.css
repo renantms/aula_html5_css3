@@ -1,0 +1,42 @@
+body{
+    background: red;
+    color: yellow;
+    margin-left: 30px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 30px;
+}
+
+
+
+h1{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 20px;
+}
+
+img{
+    margin-top: 30px;
+}
+
+footer{
+    margin-bottom: 30px;
+}
+
+/* exemplo de como mudar algo separadamente atraves de classes
+
+.img_padrao{
+    margin-bottom: 30px;
+    width: 300px;
+}
+
+.logo {
+    width: 3-px;
+}
+*/
+
